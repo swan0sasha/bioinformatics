@@ -1,0 +1,501 @@
+########################################
+# Program: needle
+# Rundate: Thu 30 Mar 2023 12:27:10
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230330-122652-0650-76743470-p1m.asequence
+#    -bsequence emboss_needle-I20230330-122652-0650-76743470-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: c23706756-23701740
+# 2: 69409251-69412989
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 5729
+# Identity:    2361/5729 (41.2%)
+# Similarity:  2361/5729 (41.2%)
+# Gaps:        2702/5729 (47.2%)
+# Score: 5241.5
+# 
+#
+#=======================================
+
+c23706756-237      1 GGGCCTACCAGCATGGCCCAGAGGAAGGCGCTGTCTGGGACGCTGGGCGT     50
+                                                                       
+69409251-6941      1 --------------------------------------------------      0
+
+c23706756-237     51 CTGTCCCAGAGCTTGGGTCTGTCTGCGGGGCCTGCAGCGACAAGACGGGA    100
+                                                                       
+69409251-6941      1 --------------------------------------------------      0
+
+c23706756-237    101 AGTTCAGGGTGCCGCTCCTCACCCGGACCTCCTCGGCCCCGCCCCATCCG    150
+                                                                       
+69409251-6941      1 --------------------------------------------------      0
+
+c23706756-237    151 CCTTCGGGATGCTGCTGAGCCCCGTCACCTCCACCCCCTTCTCGGTCAAG    200
+                             ||||||..|||.||.||..||||||||||.||||||||  ||
+69409251-6941      1 --------ATGCTGTCGAGTCCTGTGGCCTCCACCCCTTTCTCGGT--AG     40
+
+c23706756-237    201 --GACATCCTGCGACTGGAGCGCGAGCGGAGCTGCCCCGCGGCTTC----    244
+                       |||||.||..|.||||||.||.|.|.||         .||.|||    
+69409251-6941     41 CTGACATTCTCAGGCTGGAGTGCCAACAGA---------AGGATTCCAAG     81
+
+c23706756-237    245 -----GCCAC-ATCCGCGGG---TGCGGAAGAGCCCGGAAAACTTTCAGT    285
+                          |.||| ||    |||   |||..|.||.|||.|.|||...||.||
+69409251-6941     82 ACCCTGTCACAAT----GGGAGTTGCATAGGAACCCAGTAAAGCCTCGGT    127
+
+c23706756-237    286 ACCTGAGAATGGACGCAG--AGCCGCGAGGGTCAGAGGTTCACAACGCTG    333
+                     ||||.||||||.|| |||  |.||| ||.|||..|||             
+69409251-6941    128 ACCTAAGAATGAAC-CAGGAATCCG-GATGGTTTGAG-------------    162
+
+c23706756-237    334 GTGGCGGCGGCGGTGACAG----AAAGCTGGATGGTTCGGAGCCTCCTGG    379
+                             .||.|.|||||    .||||.|      ||    |||..|.|
+69409251-6941    163 --------AGCAGCGACAGGGCACAAGCAG------TC----CCTTTTCG    194
+
+c23706756-237    380 GGGTCCCTGTGAGGCAGTCTTGGAGATGGACGCGGAACGGATGGGGGAGC    429
+                     |.|..||||.|||.|||||.|||||||||.|.||.|.|...|||||||||
+69409251-6941    195 GTGCACCTGGGAGACAGTCCTGGAGATGGGCTCGAATCCTGTGGGGGAGC    244
+
+c23706756-237    430 CACGTGAGTAAGCGCTCAGGTCTTGCCTCCTACGGGGGGAATGTGGGGGC    479
+                     |||||.|||||||||     ||||   ||||||.||.|..|| ||.|||.
+69409251-6941    245 CACGTAAGTAAGCGC-----TCTT---TCCTACAGGTGTTAT-TGAGGGA    285
+
+c23706756-237    480 G-GGGGCGTGATCCATGG-----GTGCA-----TGGGGAAAATACGCCTC    518
+                     | |||.|||.|...|.||     |||||     |||||     .|.|.||
+69409251-6941    286 GTGGGTCGTCAATGAGGGAGAAAGTGCATATTTTGGGG-----TCCCATC    330
+
+c23706756-237    519 CTATCTCCTGGGTTCGAGACTCTCTCCATTTTCTCTCGAGGAGTCCAAAA    568
+                     |||.|.||               |..||||||      ||||||.|    
+69409251-6941    331 CTACCGCC---------------CCTCATTTT------AGGAGTTC----    355
+
+c23706756-237    569 AAAGGCCTCTCGAATCCCATTCCCATCCTCTCCTGACACCCAGTGTGCTT    618
+                     |||||                 .||.||||||             ||.||
+69409251-6941    356 AAAGG-----------------GCAACCTCTC-------------TGTTT    375
+
+c23706756-237    619 CACACACCCCTAACGAAAGTAAGGCCCTGAATCTCAAGGA---TTCACTT    665
+                     |                   .||.||.||||| |...|||   |||    
+69409251-6941    376 C-------------------TAGTCCTTGAAT-TTTGGGATGTTTC----    401
+
+c23706756-237    666 TTCCCAAATCCGCTCCTCTGATTCCCACAAA---CGCATCGCTCACACTC    712
+                     ||||||.|..|||.|||||.||..|||||||   .|.||           
+69409251-6941    402 TTCCCACAGTCGCCCCTCTAATAACCACAAAGAGGGGAT-----------    440
+
+c23706756-237    713 GCAGCCA------CAGTGC-CCAGAACCTCCACCT-TCTCATCTCCACAG    754
+                     |.|||||      .||.|| ||    |||||.||| .||||         
+69409251-6941    441 GGAGCCAGGTTATGAGAGCTCC----CCTCCCCCTACCTCA---------    477
+
+c23706756-237    755 CGAAACCCTCCGCAGTGTCTTAGCCGTGCCAGTCACCACCGCCCTTCCCT    804
+                                                     |||||||.||||||.|||
+69409251-6941    478 --------------------------------TCACCACTGCCCTTACCT    495
+
+c23706756-237    805 -ACCATCACCTGGTGTCTCTCCACCCCCAAACCGTTTGCAAAAGCGTGTG    853
+                      ||  |.|||||                 ||||  ||.|         ||
+69409251-6941    496 GAC--TAACCTG-----------------AACC--TTCC---------TG    515
+
+c23706756-237    854 GCCATCAAAGCAGTGGAACCCTCGTGGCGC----TGAGGTCACTCCTAAC    899
+                     |  ||          |||||.||.|||.||    |||             
+69409251-6941    516 G--AT----------GAACCATCCTGGAGCATGTTGA-------------    540
+
+c23706756-237    900 TGGGCCCTTTCTTGCTGGTC-TGGTCGGGGGACCCCCCCATTCCTC-CTC    947
+                            |||.|  ||||.| ||..||.|.|            |.| |.|
+69409251-6941    541 -------TTTAT--CTGGACATGCGCGCGCG------------CGCGCGC    569
+
+c23706756-237    948 ATGGATTTTTCT-TCTGGAAGACGAAAGTTGGGGACCGGGTG-GCGATTG    995
+                     .||..|.|.|.| |.||         .||..|.|...|.||| |.|..||
+69409251-6941    570 GTGTGTGTGTGTGTGTG---------TGTGTGTGTGTGTGTGTGTGTGTG    610
+
+c23706756-237    996 AGT-------CTCCCGAAGTGGAAGGCCCCGTTGGCGC---AGGATTCTC   1035
+                     .||       .|.||| ||||.|    ||.|..||.||   ||.||    
+69409251-6941    611 TGTGTGTTGCTTTCCG-AGTGAA----CCTGGGGGTGCTTAAGAAT----    651
+
+c23706756-237   1036 CGCGTCAGGGAGAACGTTAAAGGTTG-------CCAGGGTTTTCTCTGCC   1078
+                           |||  ||||.|||   ||||       ||             ||
+69409251-6941    652 ------AGG--GAACCTTA---GTTGGAGATGACC-------------CC    677
+
+c23706756-237   1079 CTGGGACACGGTTCTGGCCGAGTCCTGTCGCAGGTATCCAAAGGCGCAAC   1128
+                     ||..||..||    |||    .||.||        .||||||...|||  
+69409251-6941    678 CTCAGAATCG----TGG----ATCTTG--------GTCCAAAAATGCA--    709
+
+c23706756-237   1129 CGTGCGCGCCGGGCTGCGAGGCCCACGCACCTGTGTCCAG---CCC----   1171
+                       ||.|                 ||.|||     ||||||   |||    
+69409251-6941    710 --TGGG-----------------CAAGCA-----GTCCAGGGACCCATCC    735
+
+c23706756-237   1172 ---GCT----GGAAGGGAAGGGGCTGGCGGGGAGTTGTGT--------TG   1206
+                        |||    |.|||.||||||||...|..|||.|| |||        |.
+69409251-6941    736 TTAGCTTGTGGAAAGAGAAGGGGCAAACAAGGAATT-TGTAATCTGGCTA    784
+
+c23706756-237   1207 CGTC------GATCCGGGAGTTGTGTTGTGTCGATCCGGAGGCTTCAGCT   1250
+                     |.||      .||||.||.|.||| ||.|          |||   |||  
+69409251-6941    785 CTTCTATAATAATCCAGGTGGTGT-TTAT----------AGG---CAG--    818
+
+c23706756-237   1251 GGAGAGGCCCGATATTCCAAGGGATGAAAACGCCACCTTTTTCTCTCCAA   1300
+                     ||| |||||.|.||.|..||.|.|.||||..|  ||..|.|||||.||.|
+69409251-6941    819 GGA-AGGCCTGCTACTGGAAAGAAAGAAATGG--ACTGTCTTCTCACCCA    865
+
+c23706756-237   1301 ACCTCAGCACCTCACTCGGCATTCTCAACGCAGGGGCC---CTGAGTAGC   1347
+                     .||||                           .|||||   ||||||| .
+69409251-6941    866 GCCTC---------------------------CGGGCCCTTCTGAGTA-T    887
+
+c23706756-237   1348 GCCCGCCA----------GGGCAGGCCTCCTCTGCCAGACTGTGCCATGG   1387
+                     .|||.|||          |||.|||           |.|..||   .|||
+69409251-6941    888 TCCCACCAGACTGAGGTGGGGAAGG-----------AAATAGT---TTGG    923
+
+c23706756-237   1388 C-------GCCT-CCATTCAAGGCGCGAACGAAAGA-AATAAACCAAGG-   1427
+                     |       |||| ||.|.|.|.|| |..||.|.||| |||    ||||| 
+69409251-6941    924 CACAACCAGCCTACCCTACCAAGC-CAGACCACAGATAAT----CAAGGC    968
+
+c23706756-237   1428 ----GGCTAG-----------------ATCGGAGTTATTTACCGGCCTGC   1456
+                         |.||||                 .||||.|||||...|.|.|.|| 
+69409251-6941    969 CACAGTCTAGCCTAGTAATAGGTAATCTTCGGGGTTATCCTCTGACGTG-   1017
+
+c23706756-237   1457 AGGCCGGCTACTCACT--AACTCCAGAAGCCTAAGAACATTA-----CCT   1499
+                     ||||.|..|| |||||  ..|.|||.|||    |||||||||     .||
+69409251-6941   1018 AGGCTGTTTA-TCACTGGCCCCCCAAAAG----AGAACATTAAATTTTCT   1062
+
+c23706756-237   1500 GCTGTGTCCGCGAAGAAG------CTGGTAGGTTTTCTGCAGCGGATTCT   1543
+                     .|.|| ||    ||.|||      .||||   ||||.||.||.|||..||
+69409251-6941   1063 TCCGT-TC----AAAAAGAAATGTATGGT---TTTTTTGTAGTGGACACT   1104
+
+c23706756-237   1544 AAA-------CTCCCTCGGCGCTGCTCAGCCAACTCGGCGATCACTTCGG   1586
+                     |||       .|||||.|||...|.||.|..||||..|.|.|...||..|
+69409251-6941   1105 AAATATTCAGTTCCCTGGGCATGGGTCTGTTAACTTAGAGTTGCTTTTAG   1154
+
+c23706756-237   1587 CTCCGCT-GAGCTGACAAAGGATCACGTTCCT-TCGACCACCACAGTCGC   1634
+                     ||..||| ||      |||||.|   |||.|| ||  |||  ||.|    
+69409251-6941   1155 CTTTGCTAGA------AAAGGTT---GTTTCTCTC--CCA--ACTG----   1187
+
+c23706756-237   1635 CTCGCAGCC------------GATGGTATTTGCGGCGCCTTCCTTCTCCC   1672
+                     ||| |||||            ||.|               |||||   ..
+69409251-6941   1188 CTC-CAGCCCCAGCCCACCCAGAGG---------------TCCTT---TA   1218
+
+c23706756-237   1673 ACTGGAAACCAAATCCTGG-GAGCGTCTCTTCTGCGGCAGCAGTG-GAC-   1719
+                     |||||||||    ||.||| || |.|.||.|||     |.||.|| ||| 
+69409251-6941   1219 ACTGGAAAC----TCATGGCGA-CCTGTCCTCT-----ACCACTGTGACA   1258
+
+c23706756-237   1720 GCCGCCGAGGAGGGACCCGAGGCCGGACCCGAGGCC----GGCTCCAGGA   1765
+                     |||.||.|||....||||.||.|.||  |.||||.|    || ||..|||
+69409251-6941   1259 GCCACCCAGGTCCCACCCCAGCCTGG--CTGAGGGCTTTTGG-TCAGGGA   1305
+
+c23706756-237   1766 ACTGAGCC------------------------CAAGG---CCGCGGTAGC   1788
+                     |.||.|.|                        |||||   |.|| .|..|
+69409251-6941   1306 AATGGGTCATCTGATAAACTTCACCAAAAAGACAAGGGACCTGC-CTTCC   1354
+
+c23706756-237   1789 GATCCGGA------------------CAGGG-------------------   1801
+                     .|||.|.|                  |||||                   
+69409251-6941   1355 CATCTGAATCTGCCCTTTCCTCAAAGCAGGGCTCAGGGCTCTCTAATTGT   1404
+
+c23706756-237   1802 ---AAG----------------ACACCT-----TCGG-------------   1814
+                        |||                ||||||     ||.|             
+69409251-6941   1405 TCTAAGAGGGCATAGGGTGCTAACACCTTTTTATCTGTTTGTCTACTGGG   1454
+
+c23706756-237   1815 --TGGGCTTCATG------CCTT-----CCTCCATCG-------------   1838
+                       ||||.||..||      ||||     ..|||||.|             
+69409251-6941   1455 TTTGGGTTTTGTGATTTAACCTTTAATGTGTCCATTGTTGTGAGAGAAAG   1504
+
+c23706756-237   1839 --------------------------------------------CAGCTA   1844
+                                                                 |||.|.
+69409251-6941   1505 TAAAGAATCAATTTTTGTTGTGTAAAAATGAAATTCAAGGAAGCCAGATG   1554
+
+c23706756-237   1845 AC-CACCT-------TGCCCTC----------AA-------------GAA   1863
+                     || |.|||       |.|||||          ||             |||
+69409251-6941   1555 ACACTCCTTATTCAGTCCCCTCTGTCCTACGGAAGCTATGTTCTATCGAA   1604
+
+c23706756-237   1864 CTCCAGG------ATT-GTGAACAGAAGGGCG--------CAGGGTGC--   1896
+                     | |||||      ||| .|.|||.||     |        |||..|.|  
+69409251-6941   1605 C-CCAGGGCTCTCATTAATAAACTGA-----GTTTATTTTCAGTATTCCA   1648
+
+c23706756-237   1897 -----------------------------------TGG----CCCAC---   1904
+                                                        |||    |||||   
+69409251-6941   1649 CTTGAATGATCTGTTTGAGATAAATTTCATAATTTTGGAGATCCCACAGT   1698
+
+c23706756-237   1905 -----------------------------------CCTGCG---------   1910
+                                                        ||||.|         
+69409251-6941   1699 TAAAGTTTCTATTATCGGTTTTGCTTTTGGATTTACCTGTGTGGGGGCTC   1748
+
+c23706756-237   1911 --GTGCTG---------TGCAGCC---------CCAGGGCCTGCAT----   1936
+                       ||.|||         ||.|.||         ||.|||.||..||    
+69409251-6941   1749 TTGTTCTGATGGGGGCTTGGAACCTATTACTAGCCTGGGGCTAGATATGT   1798
+
+c23706756-237   1937 -GATCTG--------------------------------TGACTTTG---   1950
+                      ||||||                                ||.|||||   
+69409251-6941   1799 AGATCTGGCTGAAGAGGAACTTAAAGGGGTTGTGCTTACTGCCTTTGCTT   1848
+
+c23706756-237   1951 AAATGGG-----------------------GTCCTCCTTGCTCTGCAGCC   1977
+                     ||.||||                       |||.|.||||||||.|||..
+69409251-6941   1849 AATTGGGGGGTGGGGGCTTTCAATTGGAGTGTCTTGCTTGCTCTACAGTA   1898
+
+c23706756-237   1978 TGGCTGAAGGTCAG------TTGTTACCTTTCGATGCGCTAAGAAAACAA   2021
+                     |.||||.|||||||      ||| ||.||||..|     .||.|||||||
+69409251-6941   1899 TTGCTGGAGGTCAGTCTCGTTTG-TATCTTTAAA-----AAATAAAACAA   1942
+
+c23706756-237   2022 ACCCTCCTCAGAATTTTTC-----CTCTTTGCAAGTGGAGATGGCCTCAG   2066
+                     ||||||       |.||||     ||||||         |.||.||.|..
+69409251-6941   1943 ACCCTC-------TCTTTCCCCTACTCTTT---------GGTGACCCCCA   1976
+
+c23706756-237   2067 TTTATCTGAGCACAGACGTCTCTGAAGG-----AAGTTGTTCTGTCCTCA   2111
+                     |||.|.|.||||||.|.|.|||.|  ||     ||..|.||||   ||||
+69409251-6941   1977 TTTCTTTAAGCACATATGCCTCCG--GGAGAAAAATATTTTCT---CTCA   2021
+
+c23706756-237   2112 AACTTTACATACCAAACAGCTCCATCCCCCTCCAGGAGATTGTGC-CAGT   2160
+                     ||||||     ..|||||| ||..|..||||   .|||.|||||| |||.
+69409251-6941   2022 AACTTT-----TTAAACAG-TCATTTTCCCT---AGAGGTTGTGCGCAGG   2062
+
+c23706756-237   2161 GCCTTGGGTATTAGGAGTCTGGTTCCAATCGCACTGG-------------   2197
+                     ||  |||| .||..|||||..|.|||.|    ||.||             
+69409251-6941   2063 GC--TGGG-GTTGAGAGTCAAGATCCCA----ACCGGGAGCTAGCGGGAC   2105
+
+c23706756-237   2198 CTCATTTAGAGTC---CTGTCCCGTCTTGCCATGAACTTGCACCCCTTCC   2244
+                     ||| ||.|| |||   ||| ||.|||||||     |||     |.|||| 
+69409251-6941   2106 CTC-TTGAG-GTCTTTCTG-CCTGTCTTGC-----ACT-----CTCTTC-   2141
+
+c23706756-237   2245 ATGCTCCTGATTTTCTCCTGGCGTGAGATCCCATGAAAACTCAGCATTTC   2294
+                       |.||          |||.|.|||   |||          |.|.|||||
+69409251-6941   2142 --GTTC----------CCTTGTGTG---TCC----------CGGGATTTC   2166
+
+c23706756-237   2295 CCT----------TCTATCCAC---CCTTGGGGTAAAACGGGGT-TTAAG   2330
+                     .||          |||.|||||   ||.|||.|...||.|||.| |||||
+69409251-6941   2167 TCTCTTGTGCGTGTCTCTCCACCATCCGTGGAGACCAAGGGGATCTTAAG   2216
+
+c23706756-237   2331 CCCAG-ACAGGAGAG-AAGTGAGAAGGGAGGAAAACGCTGCATCTTGG--   2376
+                     .|.|| |.||||.|| |||.||||||        |.|.||||.||.||  
+69409251-6941   2217 GCAAGAAAAGGACAGCAAGGGAGAAG--------AGGTTGCACCTAGGCG   2258
+
+c23706756-237   2377 ----TGGGCACAGTCTCAG-CTGTAGGGGTCGCCCTGGGTGAAAGGAAGA   2421
+                         |||.||.||||.||| |||          .||||| ||||      
+69409251-6941   2259 GACTTGGACATAGTCACAGCCTG----------GCTGGG-GAAA------   2291
+
+c23706756-237   2422 CTTCAGGGTGAAGCCCACACCACCTGCTTGCCAGAAAGACCCCAAAGGAG   2471
+                                     |.||.|||..|||||||.|..|||||.|.|||||
+69409251-6941   2292 ----------------AAACTACCCACTTGCCAAAGGGACCCTAGAGGAG   2325
+
+c23706756-237   2472 GGAGAGGCTACTTTTTAAGAAGCC-AAATGTGGACCTCAACTTTATGTAT   2520
+                     |.||||.|| .|||||...||||| |||||||||.||||||||.|...| 
+69409251-6941   2326 GAAGAGACT-TTTTTTTTTAAGCCAAAATGTGGATCTCAACTTCACAAA-   2373
+
+c23706756-237   2521 CTCTCAAAGAGAACCTCAGTTTCTGAGCCAAAAGTCAGGAGCCAATAAAT   2570
+                        ||||||||||||||..||||..|||..|.||| |||...||..||||
+69409251-6941   2374 ---TCAAAGAGAACCTCTATTTCCAAGCTGAGAGT-AGGGATCAGGAAAT   2419
+
+c23706756-237   2571 A------TTTTGTTT---TCATCATATA-----TTGTTAATTTGGATTAC   2606
+                     |      ||||..||   |||..|.|||     ||.|||||         
+69409251-6941   2420 ACCTGGGTTTTAATTCACTCAGGAAATACCTTGTTCTTAAT---------   2460
+
+c23706756-237   2607 AAAGCATCACA-TCCAAGAAAGCTGGGATGCATCCCTGGTGTTGGTGGAG   2655
+                           ||||| ||| |||          ||||||   |||||.|||   
+69409251-6941   2461 ------TCACAGTCC-AGA----------GCATCC---GTGTTTGTG---   2487
+
+c23706756-237   2656 CGCTGCGTCAAAAAGACAAGAGTGTGCACAAAAGTTGGGTGAAGGTAGGA   2705
+                                      |||.||||         |||             
+69409251-6941   2488 -----------------AAGTGTGT---------TTG-------------   2498
+
+c23706756-237   2706 GACACTCAAGGCTCCCGCTCCTGGACTTACAGCCAAGTTCCCTGCAGTGC   2755
+                                                                       
+69409251-6941   2499 --------------------------------------------------   2498
+
+c23706756-237   2756 GCTTGGGGCTGCGAAGGAAAATGAGGCAGACAGGAGCCTCCTGAGAGCCT   2805
+                                       ||||              ||       |||| 
+69409251-6941   2499 ------------------AAAT--------------CC-------AGCC-   2508
+
+c23706756-237   2806 GTCACCGAGTTTGCGCCTTCTTGACA--CCCGGGCTTCTCTCTGTTTTTC   2853
+                                    ||.|.||||.|  ||||     |||.|..|||   
+69409251-6941   2509 ---------------CCATTTTGATAGGCCCG-----CTCACATTTT---   2535
+
+c23706756-237   2854 CTTCCTTTCCTTCTTCTTCTTCTCCTCCTCCTCTTCCTCCTCCTCTTCCT   2903
+                                                                       
+69409251-6941   2536 --------------------------------------------------   2535
+
+c23706756-237   2904 CTTCCTCTTTCTTCTCCTTCTTTCTCTACTTCCAAGGAGGGTCCAAAGTC   2953
+                                                                  |||..
+69409251-6941   2536 ---------------------------------------------AAGAT   2540
+
+c23706756-237   2954 TCCTCAATCTGATAGACACCTCCACTCACACTTGTTCCTCACAGCGAAGG   3003
+                     ||||||                    |||.||||           |||  
+69409251-6941   2541 TCCTCA--------------------CACTCTTG-----------GAA--   2557
+
+c23706756-237   3004 TTTACCATGCACACACAGTTTTTTTTTTGTTTGTTTGTTTTTTGTTTGTT   3053
+                       |||||..||||                                     
+69409251-6941   2558 --TACCAGACACA-------------------------------------   2568
+
+c23706756-237   3054 TGTTTTTTGAGACGGAGTCTCGCTCTGTCACCCAGGCTGGAGTGCAGTGG   3103
+                                |||||                                  
+69409251-6941   2569 -----------ACGGA----------------------------------   2573
+
+c23706756-237   3104 CACGATCTCGGCTCACTGCAAGCTCCGCCTCCCGGGTTCACGCCATTCTC   3153
+                                                            |..||||...|
+69409251-6941   2574 ---------------------------------------AGACCATAAAC   2584
+
+c23706756-237   3154 CTGCCTCAGCCTCCCGAGTAGCTGGGACTACAGGCACATGCCACCTCGCC   3203
+                     .|.|||.|   |||..|||     .|||||                    
+69409251-6941   2585 ATACCTGA---TCCGAAGT-----CGACTA--------------------   2606
+
+c23706756-237   3204 CGGCTAATTTTTTGTATTTTTAGTAGAGACGGGGTTTCATCGTGTTAGCC   3253
+                               ||||          .||.|||                   
+69409251-6941   2607 ----------TTTG----------CGAAACG-------------------   2617
+
+c23706756-237   3254 AGGATGGTCTCGATCTCCTGACCTCGTGATCCGCCCGTCTCGGCCTCCCA   3303
+                      ..|||   |.||                 |||                 
+69409251-6941   2618 -AAATG---TAGA-----------------CCG-----------------   2629
+
+c23706756-237   3304 AAGTGCTGGGATTACAGGCATGAGCCACTGCGCCCGGCCCATGCACACAC   3353
+                            |||.|.||||                 ||..||          
+69409251-6941   2630 -------GGGCTCACAG-----------------CGTACC----------   2645
+
+c23706756-237   3354 ATTCTAAGAAGCAAATGGAGCTGCCTTAACTCTTTATCTAGAGTCTACCT   3403
+                           |||                      ||||||..||..|||    
+69409251-6941   2646 ------AGA----------------------CTTTATTCAGGCTCT----   2663
+
+c23706756-237   3404 TTAGGAAAAGGACGCACACACGAGGGACCATAGGTTGTCACAATTTATGT   3453
+                                         .|||||                        
+69409251-6941   2664 --------------------GGAGGG------------------------   2669
+
+c23706756-237   3454 TCCAGCAGTAACATATAAAGGTGACAGAGCTTGGAGGGAAAAAACATGGA   3503
+                                  ||.|||.|..||||||.|..|||     |||.|.|| 
+69409251-6941   2670 -------------TACAAAAGCCACAGAGATCAGAG-----AAATAGGG-   2700
+
+c23706756-237   3504 GACAGTCCTGGGACAGGGTTCGTCCTGGGACAGGGTT-CGGGGGCAGTAG   3552
+                       ||.||  ||.|.|||||      .|.|| |||||| .|.||.|||.||
+69409251-6941   2701 --CATTC--GGAAAAGGGT------AGAGA-AGGGTTAAGAGGACAGAAG   2739
+
+c23706756-237   3553 GAGGGAGGAGGAGCCTGCGCAGAGTGAAGGCTGCCAGGGAGAGGAAA---   3599
+                     ||             |||.||        ||||||.|||||| ||.|   
+69409251-6941   2740 GA-------------TGCTCA--------GCTGCCTGGGAGA-GAGAGGG   2767
+
+c23706756-237   3600 --GTCT--TGAAAACTAAGTAGGAACCGCTCAGGTGAGCCTTAGGCTGGG   3645
+                       ||||  |||||||                  .|||||||.|.|||||.
+69409251-6941   2768 CGGTCTAGTGAAAAC------------------CTGAGCCTGATGCTGGC   2799
+
+c23706756-237   3646 CGCTGAT-GTGTCCCTTCC-TGTGCTTTTAGA------GCCCGGCCTGAA   3687
+                     .|.|||| ||||.|||||| ||||..||||||      .||.|||..|| 
+69409251-6941   2800 TGTTGATGGTGTTCCTTCCATGTGACTTTAGAAACTCCTCCGGGCACGA-   2848
+
+c23706756-237   3688 CGCGGCCTCGCCC--CTCGGCGGCGGGA--CCAGGGTGCCAGAGCGCGGC   3733
+                            ||.|||  ||.||.|.|.|||  |||  .||.|.||.||||||
+69409251-6941   2849 -------TCTCCCGACTTGGAGCCAGGAACCCA--ATGACCGATCGCGGC   2889
+
+c23706756-237   3734 GTTGGCAAC---AGCGGCGACAGCGTGCGGGGTGGCCGCTCGG-----AG   3775
+                     ||.||||||   ||.|||||||   ||||..|.|||.|..|||     |.
+69409251-6941   2890 GTGGGCAACCTGAGTGGCGACA---TGCGCCGAGGCGGTCCGGTTTCAAC   2936
+
+c23706756-237   3776 CAGCCCAAGGCGCGGCAACGACGGAAGCCGCGCGTGCTCTTTTCGCAGGC   3825
+                     |||   ||  ||||||.||..||||||.|.||||||||.||.||.|||||
+69409251-6941   2937 CAG---AA--CGCGGCCACAGCGGAAGTCCCGCGTGCTATTCTCCCAGGC   2981
+
+c23706756-237   3826 GCAGGTGCTGGCCCTGGAGCGGCGCTTCAAGCAGCAGCGGTACCTGTCAG   3875
+                     .||.|||||||||||||||||||||||||||||||||||.||||||.|.|
+69409251-6941   2982 CCAAGTGCTGGCCCTGGAGCGGCGCTTCAAGCAGCAGCGATACCTGACTG   3031
+
+c23706756-237   3876 CGCCCGAGCGCGAGCACCTGGCCAGCGCGCTGCAGCTCACGTCCACGCAG   3925
+                     ||||||||||.||||||.||||||||||||||||||||||||||||||||
+69409251-6941   3032 CGCCCGAGCGTGAGCACTTGGCCAGCGCGCTGCAGCTCACGTCCACGCAG   3081
+
+c23706756-237   3926 GTCAAGATCTGGTTCCAGAACCGACGCTACAAATGCAAGAGACAGCGCCA   3975
+                     |||||||||||||||||.|||||.||||||||.|.||||||.||||||||
+69409251-6941   3082 GTCAAGATCTGGTTCCAAAACCGGCGCTACAAGTCCAAGAGTCAGCGCCA   3131
+
+c23706756-237   3976 GGACAAGTCGCTGGAACTGGCTGGCCACCCTCTAACGCCGCGCCGAGTAG   4025
+                     ||||.||.|.|||||||||||.||||||||..||.|.||||||||.||||
+69409251-6941   3132 GGACCAGACTCTGGAACTGGCCGGCCACCCGTTAGCACCGCGCCGGGTAG   3181
+
+c23706756-237   4026 CTGTGCCCGTCCTGGTGCGCGATGGCAAGCCCTGCCTGGGCCCCGGGCCC   4075
+                     |.|||||.||.|||||.|..||.|||||||||||||||      |..|||
+69409251-6941   3182 CAGTGCCAGTACTGGTACTGGACGGCAAGCCCTGCCTG------GATCCC   3225
+
+c23706756-237   4076 GGCGCACCTGCCTTCCCCAGCCCCTACAGTG-CAGCAGTGTCGCCCTACT   4124
+                     |.||.|.|.||.||||...|.|||||||..| ||.|    ||||||||.|
+69409251-6941   3226 GACGTAGCCGCATTCCTGGGTCCCTACAAAGCCACC----TCGCCCTATT   3271
+
+c23706756-237   4125 CTTGCTACGGAGGCTACAGCGGAGCA--CCCTACGGCGCAGGCTACG---   4169
+                     |.||||.|||.|||||| |||| |||  |||||||.|||..||||.|   
+69409251-6941   3272 CCTGCTTCGGTGGCTAC-GCGG-GCACTCCCTACGACGCTAGCTATGCGA   3319
+
+c23706756-237   4170 GCACCTGCTAC--GCGGGCGCGCCCTCGGGTCCTGCGCCACACACACCAC   4217
+                     ||..|||| ||  |||...|||||    ||.||.|.|||.|.||||||||
+69409251-6941   3320 GCCGCTGC-ACCAGCGCCAGCGCC----GGCCCCGGGCCGCTCACACCAC   3364
+
+c23706756-237   4218 TGGCCAGCGCGGGCTTCGGACACGGTGGCCAGAATGCCACCCCGCAGGGC   4267
+                     ||||||||.|.||||||.|.|..||||||||.|.|||..|.|||||||||
+69409251-6941   3365 TGGCCAGCTCTGGCTTCAGCCCAGGTGGCCAAAGTGCGGCTCCGCAGGGC   3414
+
+c23706756-237   4268 CATCTGGCAGCCACGCTGCAGGGTGTCAGGGCCTGGTGAGGCTCCTCGGC   4317
+                     ||||||.|.||.||||..|||||.||||.||||||||||....|||..||
+69409251-6941   3415 CATCTGCCCGCTACGCCTCAGGGAGTCACGGCCTGGTGAAAAGCCTGAGC   3464
+
+c23706756-237   4318 TTGACT-CTGCCAACCAGGGCCAGATGCTCGTTCCCTTCCCCTCCGCCCG   4366
+                     |...|| ||||||..|.|.|||.|||||..|.||||.||||||  .||.|
+69409251-6941   3465 TCACCTACTGCCATTCGGTGCCTGATGCCTGGTCCCCTCCCCT--TCCTG   3512
+
+c23706756-237   4367 CAGGTCGTGACAAGGAGGGGACGCGGCGCTGGAAGGAAGCTGCTACCCAA   4416
+                     |.|||             ||.|||||.|||||||.|.|    ||.|||| 
+69409251-6941   3513 CTGGT-------------GGGCGCGGGGCTGGAAAGCA----CTGCCCA-   3544
+
+c23706756-237   4417 CGGCGCTT-CTTTCCGGAGGGATCTCTGA----AACTGC------GATCT   4455
+                         .||| ||         ||||||.||    ||||||      ||.|.
+69409251-6941   3545 ----CCTTACT---------GATCTCGGAACTGAACTGCTTGGAGGAGCG   3581
+
+c23706756-237   4456 GCACCACAGTCACCCAGTTAAAGGCCCCGCCTG-GGACGTTC-TTCCCCC   4503
+                     ||.||             |.|||.|    |.|| |.||.||| |||||.|
+69409251-6941   3582 GCCCC-------------TGAAGAC----CTTGAGAACATTCTTTCCCTC   3614
+
+c23706756-237   4504 AAAAG---AAGACCCCTCCACCGGTCACCCACCAAGCAACACAGGGACTG   4550
+                     ..|||   ||       ||||  || |.||||..||      |.|...||
+69409251-6941   3615 GGAAGTGTAA-------CCAC--GT-AGCCACGTAG------ATGCTGTG   3648
+
+c23706756-237   4551 AAGAACACCAAGGCTGG--CTGGCAGTTTGGGGTGTGGGAGCAGTA---C   4595
+                     .|||     |||.||.|  |..|.|.||              |.||   |
+69409251-6941   3649 CAGA-----AAGACTAGCACAAGAAATT--------------AATAAATC   3679
+
+c23706756-237   4596 TAAGGCGCGTG-ACTTTTGGGGCTTCAACCCCAGAGGCCCGAGAGGCTCT   4644
+                     |.|..|.|.|| .|||.|||         ||.|||      |.|      
+69409251-6941   3680 TTATTCCCTTGCCCTTCTGG---------CCTAGA------AAA------   3708
+
+c23706756-237   4645 TGCATCTGTA--CGCAGCAGCCCCGGG----GCATCGGCGGTGAATGGAG   4688
+                            |||  .|.|||||  |||.|    ||||        .||||  
+69409251-6941   3709 -------GTAATAGAAGCAG--CCGTGTACTGCAT--------TATGG--   3739
+
+c23706756-237   4689 ATGGTGATCTAGCGGGCCTACCATCCTCCAATTAATGACAGCTGTTGGGG   4738
+                                                                       
+69409251-6941   3740 --------------------------------------------------   3739
+
+c23706756-237   4739 AAGAAAGAGAAGAGGACGGGAGGGCGGGAAGGGGGCTGAAGAGCTGGGAA   4788
+                                                                       
+69409251-6941   3740 --------------------------------------------------   3739
+
+c23706756-237   4789 CTTGAGGATCCGGGAAGTTCACGAAGAGTAACCTGCTTTGAGCCTCTTCC   4838
+                                                                       
+69409251-6941   3740 --------------------------------------------------   3739
+
+c23706756-237   4839 TTTGGGACTTAAACATCCCCATAAGGCCGCGCCCCAGGGGACTCCGTTAA   4888
+                                                                       
+69409251-6941   3740 --------------------------------------------------   3739
+
+c23706756-237   4889 TCCAGAGGAGCACTCTTTTCTGGCCACGACTGCTCTCCTGGAAGTAGGCT   4938
+                                                                       
+69409251-6941   3740 --------------------------------------------------   3739
+
+c23706756-237   4939 CTACATTCTGGTCCCTTTCACTGTTGTGCATTTTATCTCTTTGTACAGCA   4988
+                                                                       
+69409251-6941   3740 --------------------------------------------------   3739
+
+c23706756-237   4989 CAGCACCTCCAATAAATATACTAAATAGG   5017
+                                                  
+69409251-6941   3740 -----------------------------   3739
+
+
+#---------------------------------------
+#---------------------------------------

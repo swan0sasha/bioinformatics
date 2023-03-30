@@ -1,0 +1,584 @@
+########################################
+# Program: needle
+# Rundate: Thu 30 Mar 2023 12:16:20
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230330-121600-0199-29330586-p1m.asequence
+#    -bsequence emboss_needle-I20230330-121600-0199-29330586-p1m.bsequence
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: c173235206-173232109
+# 2: c27063962-27057638
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 6771
+# Identity:    2056/6771 (30.4%)
+# Similarity:  2056/6771 (30.4%)
+# Gaps:        4119/6771 (60.8%)
+# Score: 11456.0
+# 
+#
+#=======================================
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270      1 GCCTCCTCCCTTGTGAAGAATTCTCCTTCTGAATGACAGTGTAGGGAGAC     50
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270     51 TCCCAGGTTCTCTTTGGCAGCAGGCATCTTGCTTTCTTCCACAGACAAAC    100
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    101 AGGAAATGGCGATCACCGCTTCTAGACTGGGTAAGTAGCCTTGAGCGAGT    150
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    151 CACTCTCCCCTGCGACCTTCTTCTCTTAGCCAGGTGGTCTGGCAAGAGGA    200
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    201 CCCAAGACGCACCACCTCCGAGGGCGCCGCCGGCTCCGGATGGCTGAGTA    250
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    251 CCTGAAGCCGTAGGTGTACCTCGTTGCAGAGCTGGCCGGCCCTGCGCTAC    300
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    301 CCGCGGGAAGGAAGCACGGGCCAGGCCAAGGGGCGGCCGCGCTGCTCATC    350
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    351 CATCAGCCAGACGAAGAGCAGAGTCGCGCTCTCGGCCCTCTGTTTGCTTT    400
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    401 CTCGCCAATTATTGCTGCACAGCGGCCCCTTTGTTGATACAGTAGTCCGA    450
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    451 AAAAGTGCTAATGTTCATTTATCAGGGGGCCCGCCGGGGACTCCCTAGAG    500
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    501 TTGCGATTCTTCCCAAAATATAAACATGGGGCGAGCGTCCCAGACAGAAA    550
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    551 CCCCCATCTGTTTCCCTGGCGCGGGCCAAGAGAGCGAGGCGTTGTTGAAG    600
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    601 ATAAAGCTACGGATAACGCTGCCTGTCTCCAATGGACGTCTCCCCGGCGC    650
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    651 ATTAATGACATTCCGGGTGATAGTTGCAGCTTATCTTTCAATTAATCATA    700
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    701 TATACTTTTCGCGGCTGATTGCAGGAAAGGGGGGGCGCTCGGGCCGGGCT    750
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    751 GATCGCTTTTCAATCAATAATAATTTATTTACGCAGGATGCGCTGGAGCT    800
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    801 ACCCCGGAATTTGACTAATCCTAAAGCACCAAGTCTTTAAAAGGCAAAGA    850
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    851 AATCACTCCACAGAGTTTTCTCTGTCTCCACCAGTCTCCTTTGTCTCTGT    900
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    901 CCCTTTCAACTGAAGGTTGTGCCTTTCAGAGCACAAGGCAGGTTGAGCCA    950
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270    951 AAAACCCTTGGGGAGAAAGATGCGCCCCTTCCCAGCCATTGTAACACAGA   1000
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1001 CACAAACACACAGACACACACAGACACACACTGCAATATATATGTCCTTT   1050
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1051 GGTATTGATTTGAAGACAGCCAGGACAGAAGCCACGTTGGAAAGTGCTTT   1100
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1101 GGACAGCTCTCTAAAGAAACCCCCACAGGTCACCCCAATTCTGTTCTGCC   1150
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1151 TATTTGTCTCACTCTGTCCTGTTTCCTCCCCGAAGAGAAAGGCCAGGGCC   1200
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1201 TTTTCACCAAGGTTGTAGGGGTGGGAAAGTCACTGATTTTGTTCAAATTA   1250
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1251 GAAGAGTTTTCTTCCTTTTTCTTGACACCTGACCCACAGATTTGTCAACT   1300
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1301 CTGGAAGCCCTTATATCCGAAAAAAGTGATAAATCCTCACCACATTGATT   1350
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1351 TGCAAAGGAAACGTCCCCTCTCAAAACTATTTTTTAAAAAAGACTTAAAA   1400
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1401 CAGGGATCCCGGATGCGGCCCCCAATATAGCTCCCCCAATTAAACGGTAA   1450
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1451 TATTTCAGGCGTCAGCTCACACTAATCTTTCAAACTGTCATCGCGATCCG   1500
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1501 CAGGGCCAGCCGATTCACTTAACAGGACTCCCAGGACCCTCGCCCGAAGC   1550
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1551 TGTTTTCAGCAAGACATTTAATTGAATCGGATGTGGCTCGTTTGCCAGAC   1600
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1601 GTCACCGCCTGGGTGATAGACATCCGTCCAACCCACACAAACCAATCTTC   1650
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1651 AATCTCGGGAGGGTCCCAAGCTAGGTTGGCTCAGAACAGTAACTGTAATG   1700
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1701 TAACCAGAAATTGTGGCAAGGGAGGAAAACAAAACAAAACAAAACAAAAC   1750
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1751 AAAACAAAACAACAAAAGCGAAAAAAGGCAAAGGCTTTGGACTGCTTGGA   1800
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1801 GAGGGACACAGCGGAAGACAAAGAGCACCAGCTTTAGGATGCTCTGTGGT   1850
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1851 CCCTGGGTTGAGATCTCACTATGGCTCCCAAGTCTGGTGCTGACCACTGG   1900
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1901 AGCCTGGAATTGGGCTTCACAGTCTGCCTGGAGCTGGGTCTCCTTCTCCC   1950
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   1951 TTAGTTGAAGACAACCCAAGGCCTTGGGAGTTTGGGTTTGAGGAAAAGCA   2000
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2001 GGAAGGAACACAAATCAGGCCTTTGCTGGCTTCACTATGGCCCAGATGGT   2050
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2051 TGCCAGCGCCCAATGGCCCACACTGCCCTGCCAGGAGGGACAGTTCACAC   2100
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2101 TCTGCACTCACAAAAGTTTTGATCTCTGGACTTTGGGTTCATGACTTAAG   2150
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2151 AGTGACTTGTTTAGCTAACCTTTGACCCTACACTCACACTCCGTTTCTAT   2200
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2201 TCCAAAAGCCTCTCCTCTGGTGGCCAACTCGTCCTTCATATCTGTGTGCC   2250
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2251 TTCTGACTCACAGATCTGTTCACTCTGGGAATCCTTATATCCGAAAACAG   2300
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2301 GTGATGGACCCTCACCACATGAATTTTCAAGGGCACATCCCCTTTGCAAA   2350
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2351 TCGGTGTGGTGAGCCCAAGCTCTCCCAGAGGTTAGCCTTACCATATACCT   2400
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2401 TCGGTGGGGGAGGTTTTGCCTGGAATCGATGTGCCTTCTCTTTTTGAGAT   2450
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2451 TACAGCAGGAAAAAGTCCCACTCTGTTGGGTCTGGGAGGGCCCAAGTGTT   2500
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2501 CCTTAGATCCAGACAGTTGTCTTAGTACAGAACCTGGGTTCCTTAAACCC   2550
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2551 TGACAGTTTTCAGACAGAAGCAGCACTGGACTGAAAATGTCCCTCCACCT   2600
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2601 GCCTGATCTGTCCTCTGCCCCGTGGAGTAGAAGCCCAGGAAGGCCCTGGA   2650
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2651 GGATCGGGCTAGAAAGGGTCTGGGACTTTTGTGGTGGCCTAGGAGGGTGA   2700
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2701 AAAATGAAGCAGCTTGGGCTTCAGGAGAATCCAGGCAGACAACCCAGAAG   2750
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2751 GCAGCTCTCCTCCAGGAAGAGTCAATTCCCCAACAATGCTTCCTTCTCTC   2800
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2801 TGGAGAGGTGCCTGGCCCCACCGCTTAGTCTGAAGCAGGTGGCCACTCCC   2850
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2851 ACCCCACAATTAGCCACTTCACCTTTCCATTCAGCTCAGAACCCCTTGGG   2900
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2901 GCCCCTCTGGGTTCCTGGGTTGAATTTGGTCCTGTAGGTCAAATTAACTA   2950
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   2951 CCGCTCCCCAATCCAATTCTTAAACTCATGTGTTAAACTCAGTGTTCGTC   3000
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   3001 CCAGAACAACTGTCTTCTCTGTGATTCTCTTTCTATGCAGGCTACTCTTA   3050
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   3051 GGCAGACTTCAGTAAACAATATTGTAGTCATAGTCTTGATCCCTGAAAAT   3100
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   3101 AACCCCCCTCTTCTGGCTTTCAATCCATCCTCACCAGCCCATTTAGTGAT   3150
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   3151 ACAGGACACAGTGCAAAGAATATTTATTCAAATCCTCGACCCACCCCCAA   3200
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   3201 CCCTGCGTTTAGACTCAGCATAACAGAATCAGGTATTTTCTTTGAGTGTG   3250
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   3251 TCTGGCTGGGATTTTCAGGCTAACGAGGAGCAATCTCCTTGCAGGAGTGG   3300
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   3301 GAGACTATCCCAAATGTGTCGCGGCCCCTTTAAAAAAAGCTGAGCAGGAT   3350
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   3351 TTTTTTTTCCCATCCCTATGTCTATATTAGGTGACGCAGAACTGCCCGTC   3400
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   3401 GCTCCTGTCATCCAGGCCCCTGGCCCAATGGCAGGCTGAATCCCCCCTAC   3450
+
+c173235206-17      1 --------------------------------------------------      0
+                                                                       
+c27063962-270   3451 TCCAGCCTGCTCCCGCCTCTTCTGCCCCTGGTGCTCCGCGCTACCTGCTG   3500
+
+c173235206-17      1 ---------ACATCCAGAGCTGGCCGACGGGTGCGCGGGCGGGCGGC-GG     40
+                              ||||||||.||.|...|.|||||||||||||||||||| ||
+c27063962-270   3501 CCGCGCGCCACATCCAGGGCAGAGAGGCGGGTGCGCGGGCGGGCGGCGGG   3550
+
+c173235206-17     41 CACCATGCAGGGAAGCTG---CCAGGGGCCGTGGGCAGCGCCGCTTTCTG     87
+                     ||||||||.||||.||||   ||||||   |||||||||.||.||.||||
+c27063962-270   3551 CACCATGCGGGGAGGCTGTCCCCAGGG---GTGGGCAGCACCACTCTCTG   3597
+
+c173235206-17     88 CCGCCCACCTGGCGCTGTGAGACTGGCGCTGCCACCATGTTCCCCAGCCC    137
+                     |..|||||||||||||||||.||..|||..||||||||||||||||||||
+c27063962-270   3598 CTACCCACCTGGCGCTGTGAAACCTGCGTCGCCACCATGTTCCCCAGCCC   3647
+
+c173235206-17    138 TGCTCTCACGCCCACGCCCTTCTCAGTCAAAGACATCCTAAACCTGGAAC    187
+                     |||.|||||.||||||||.||||||||||||||||||||.||||||||.|
+c27063962-270   3648 TGCGCTCACACCCACGCCTTTCTCAGTCAAAGACATCCTGAACCTGGAGC   3697
+
+c173235206-17    188 AGCAGCAGCGCAGCCTGGCTGCCGCCGGAGAGCTCTCTGCCCGCCTGGAG    237
+                     ||||||||||.||||||||.   .|.||.||.||.|||||.|||||.|||
+c27063962-270   3698 AGCAGCAGCGTAGCCTGGCG---TCTGGGGACCTGTCTGCGCGCCTCGAG   3744
+
+c173235206-17    238 GCGACCCTGGCGCCCTCCTCCTGCATGCTGGCCGCCTTCAAGCCAGAGGC    287
+                     ||.||||||||.||..||||||||||||||||||||||||||||.|||||
+c27063962-270   3745 GCCACCCTGGCCCCTGCCTCCTGCATGCTGGCCGCCTTCAAGCCCGAGGC   3794
+
+c173235206-17    288 CTACGCTGGGCCCGAGGCGGCTGCGCCGGGCCTCCCAGAGCTGCGCGCAG    337
+                     ||||.||||.|||||||||||.|||.|.|||||..|||||||||||||.|
+c27063962-270   3795 CTACTCTGGCCCCGAGGCGGCAGCGTCCGGCCTGGCAGAGCTGCGCGCGG   3844
+
+c173235206-17    338 AGCTGGGCCGCGCGCCTTCACCGGCCAAGTGTGCGTCTGCCTTTCCCGCC    387
+                     ||.||||||.|||||||||.||..|||||||..|..||||.||.||.|||
+c27063962-270   3845 AGATGGGCCCCGCGCCTTCGCCCCCCAAGTGCTCTCCTGCTTTCCCAGCC   3894
+
+c173235206-17    388 GCCCCCGCCTTCTATCCACGTGCCTACAGCGACCCCGACCCAGCCAAGGA    437
+                     ||||||.|.||.||.||..|.||||||.|.|||||.|||||||||||.||
+c27063962-270   3895 GCCCCCACATTTTACCCGGGAGCCTACGGTGACCCTGACCCAGCCAAAGA   3944
+
+c173235206-17    438 CCCTAGAGCCGAAAAGAAAGGTGAGGAGGAAACACAGGCCCCCTTCTCCC    487
+                     ||||.|.||.||.||.||||||.|||| |||.|.||.||     |||.||
+c27063962-270   3945 CCCTCGGGCGGATAAAAAAGGTAAGGA-GAACCTCAAGC-----TCTTCC   3988
+
+c173235206-17    488 CTCCTGG-GTCGCTTTC--GTCC-----------CCAAGAAACTCAGGGC    523
+                     ||.|||| .||||||||  ||||           |||||||||.|| |||
+c27063962-270   3989 CTTCTGGAATCGCTTTCATGTCCAAAACCCTGAGCCAAGAAACCCA-GGC   4037
+
+c173235206-17    524 CAGGAGGAGGAGACACGCGCCCTTGGGCCGAGGGCTGGGCTGCGGCGGGG    573
+                     |.|...|..|   |.| .|.||  |||..||.||||||||    ||||||
+c27063962-270   4038 CTGACAGTAG---CTC-AGTCC--GGGGTGAAGGCTGGGC----GCGGGG   4077
+
+c173235206-17    574 GGTTCAGAATGTAAGATGCCTGGTGTTGTCGCCAGGCTCCCGCGCCCCGC    623
+                     .|||..||.|.||||||             .|||||||     |.|||||
+c27063962-270   4078 AGTTTGGAGTATAAGAT-------------TCCAGGCT-----GTCCCGC   4109
+
+c173235206-17    624 GTCCAATCGGAGGTTCAGAGGAAATGCCGGATTGAAAGGATCAG------    667
+                     ...||.||.||.|||.|||||.||.||||.|||.|.|||.||||      
+c27063962-270   4110 AGTCAGTCCGAAGTTTAGAGGGAACGCCGAATTTAGAGGGTCAGGAAAAA   4159
+
+c173235206-17    668 --------------------------------------------------    667
+                                                                       
+c27063962-270   4160 AGAAGGGAGAGAGAGAGAGGGAGAGAGTGAGAGAGTGAGAGTGAGAGAGA   4209
+
+c173235206-17    668 AAGCAAGAGACCAAAAAACGTTTCCCC--------CCGGCCTAACAAAGC    709
+                     .||..|||||...|.|.|.|.||....        .|||||| |||||.|
+c27063962-270   4210 GAGAGAGAGAGAGAGAGAAGATTAAAATGTTGTTTTCGGCCT-ACAAAAC   4258
+
+c173235206-17    710 CCCGGGCGGCTTCGGCTCTGCTCCTGGGTCTGGTAGGAAGTTGAGAAATC    759
+                     |||.|..||.|..|||..||.||.|||.||||.||..|||||.||..|||
+c27063962-270   4259 CCCAGTAGGTTAGGGCCTTGTTCTTGGATCTGTTACAAAGTTAAGCTATC   4308
+
+c173235206-17    760 GGTTTATGGTAGACAGAACAGAGAGACAAGCAGATAATCTCTGTTTTTAA    809
+                     .....||....|..||||||.|....|...|.|.       .|..||.||
+c27063962-270   4309 TAACAATCCGCGTTAGAACAAATCTTCGTACTGG-------AGAGTTAAA   4351
+
+c173235206-17    810 ATCTCCTTTGGATTTACGAATCTTTTTAAAGATCTGATGAGAACCGCTAA    859
+                     |||||.|...|||||..|..|..|||    ||.....|||||||.|||||
+c27063962-270   4352 ATCTCTTCCAGATTTGGGGGTACTTT----GAGACACTGAGAACTGCTAA   4397
+
+c173235206-17    860 ACAGAAATTGAAATGTTGCTCA-CCAGACAGCTTTTGCGTACAATCGGAG    908
+                     ||.||||          |||.| ||.           |||          
+c27063962-270   4398 ACCGAAA----------GCTTAGCCC-----------CGT----------   4416
+
+c173235206-17    909 GAGGGTCCTGGACCTTCTTTCTGCAGCCCACCCACGACCCGGGTTTCTGG    958
+                       |..||||||.||    ||.||.|||||||||.  .||    |||||||
+c27063962-270   4417 --GTATCCTGGGCC----TTGTGTAGCCCACCCT--GCC----TTTCTGG   4454
+
+c173235206-17    959 TGCCTTTCTTTCTTTGCGCCAGGAAAGTGGAGTCTGGGATCGAGGGCCTT   1008
+                      |||||.|.|.|||||.||||..|.||.||||||||||..| .|||...|
+c27063962-270   4455 -GCCTTGCCTCCTTTGTGCCAAAAGAGAGGAGTCTGGGGAC-CGGGTTGT   4502
+
+c173235206-17   1009 GATTTTAAAATGGGATACTGCGGACCCTCAGGAATCTGACTTCACTTTAT   1058
+                     ||||||.|.|||.|||.|||||||.|| |||||....|..||..||||.|
+c27063962-270   4503 GATTTTGAGATGCGATGCTGCGGATCC-CAGGAGCTGGGGTTGGCTTTGT   4551
+
+c173235206-17   1059 TTTTTCAGCACAACTTGCCGGCGCGGCCAGGGCGGAGAGGTTCC-CTCGT   1107
+                     ||||..||.||||..|.|.|||..|..|| |||  |||..|||| .||..
+c27063962-270   4552 TTTTCTAGTACAATCTCCAGGCAGGATCA-GGC--AGAAATTCCTTTCTG   4598
+
+c173235206-17   1108 GGAAAAGTTAGGAAATGCTGCGCTACCGCGGGCACAAGGGAGTGGACGAG   1157
+                     ||||..|||.||||||.|.|..|.|.....|.|||...|.||||      
+c27063962-270   4599 GGAACTGTTGGGAAATACGGAACGAATAAAGACACTGAGAAGTG------   4642
+
+c173235206-17   1158 ATGAGTGCGGGATCATCC--CGCAGGCC--ATCCCAGG-ATC---GGGGA   1199
+                       .||.||.||  |.|||  .|..||||  ||.|||.. |||   |.|.|
+c27063962-270   4643 --AAGAGCAGG--CTTCCGAAGGTGGCCGAATACCAAATATCTCAGAGTA   4688
+
+c173235206-17   1200 GGGAGGCCGGCCCCGCTGCAGAAAGGGGCCTTCTGGGAGACCCCCCAGCC   1249
+                     |||||                  ||||| ||.||||        |||||.
+c27063962-270   4689 GGGAG------------------AGGGG-CTCCTGG--------CCAGCT   4711
+
+c173235206-17   1250 CAAGGCAGGAGCCCGGGCGATTCCCGGGAGGCCGCAG-----GCGCTGGG   1294
+                     ||..|.||||||..||..|  ||||   ||||| |||     |.||||.|
+c27063962-270   4712 CACAGAAGGAGCAGGGAAG--TCCC---AGGCC-CAGATCCTGTGCTGAG   4755
+
+c173235206-17   1295 CGAAGCGCTGGGCGAAGGGCCGCTG---CCAGCCGG---GAGAGAATTCA   1338
+                     ..|||| |.|.|   |||.||..||   .|.||..|   |||....|||.
+c27063962-270   4756 TAAAGC-CAGAG---AGGCCCAATGGTTTCTGCGAGTTAGAGGACGTTCC   4801
+
+c173235206-17   1339 TAGGTTTG--TTGAGGAGCAG-----AGGCCTGGGAACAAATTCGGGCGG   1381
+                     |||||||.  .|| |||||||     |||.|..|||||  |||.|.|..|
+c27063962-270   4802 TAGGTTTTCCCTG-GGAGCAGAGAGAAGGTCCAGGAAC--ATTGGAGAAG   4848
+
+c173235206-17   1382 GCACGGCGGC----TAGAACTGATCGCTACCAATTCGAGGAAGCCAGCAA   1427
+                     |...||.||.    |||||||.||.||||||||  | .||||.||.|||.
+c27063962-270   4849 GACTGGAGGAGGATTAGAACTTATTGCTACCAA--C-CGGAATCCCGCAG   4895
+
+c173235206-17   1428 GGCAGGTTCCGAGGCCGCCTGCCCACCCGCAGCTTCTTGGACACTGCGCA   1477
+                     |||.|||...|||||| .|||.||.||..|.|.|.||.|||         
+c27063962-270   4896 GGCTGGTGTAGAGGCC-TCTGTCCTCCTCCGGGTACTGGGA---------   4935
+
+c173235206-17   1478 AACCCTGCTGCGGCCAGGCTGGAGCCTCCGATCACCAAACCAACACTCCC   1527
+                                    ||         |||.....|||..||||||     
+c27063962-270   4936 ---------------AG---------TCCAGAAGCCATGCCAACA-----   4956
+
+c173235206-17   1528 TGGCCTTCTGTTTCTTGATTCCTTAATTTTGAGATAAGACCGTCCCTAGC   1577
+                           ||.|   ||                      |||| .|||.|| 
+c27063962-270   4957 ------TCAG---CT----------------------GACC-ACCCGAG-   4973
+
+c173235206-17   1578 AGTGAGGCCTCGGCCTCTGTTCATTTAACTTCTCAAACCAAACTAGCCCT   1627
+                          ||                         .||||||..|.||..|||
+c27063962-270   4974 -----GG-------------------------ACAAACCGGAGTATTCCT   4993
+
+c173235206-17   1628 AATTCAGTTCACCCCAGAGCAT-CACCTGGTTTTATTTTTATTTTTTTAT   1676
+                     |||..|.|||||.|| |||||| |.|.||..||||               
+c27063962-270   4994 AATGTAATTCACTCC-GAGCATCCTCATGACTTTA---------------   5027
+
+c173235206-17   1677 TTTTTTATTTATTTTTTTTTTTTTTGCAGCCTGA------AATTTTAAGT   1720
+                                      ||||.|||||||||.||      ||...|||.|
+c27063962-270   5028 -----------------TTTTCTTTGCAGCCAGAAAAGCTAAAGCTAAAT   5060
+
+c173235206-17   1721 CACCGTCTGT----------CTCCCTCACCAGGG-TGTGAACT-------   1752
+                     |.|.|.||||          ||..||..||.||| .|.|..||       
+c27063962-270   5061 CCCAGACTGTTAAGAGAACGCTAACTATCCGGGGAAGAGGTCTGGGATAG   5110
+
+c173235206-17   1753 -GC-CCCGAGGGCAGAGACCTCCCGTTTTGTTCT---CCAGCGCCTTGAG   1797
+                      || ||||     |||...|||..||||||||.|   |.|||..|||..|
+c27063962-270   5111 GGCGCCCG-----AGATTTCTCTTGTTTTGTTTTGTCCAAGCCACTTAGG   5155
+
+c173235206-17   1798 CCAG--CCTGACTTTCTACAAATGCTGAGTGAGACGTGTCGGTGGCTCCC   1845
+                     |...  ||.||  |.| .|||.||| |.......||...||...|..|||
+c27063962-270   5156 CATTTCCCAGA--TGC-GCAATTGC-GCCAACATCGAACCGAGCGAGCCC   5201
+
+c173235206-17   1846 AGTGCACTTGGCAGAGTGAGCCGCAGC-CAGCTGGGCGCTCCAGGC--AG   1892
+                      |||||||.||| || |.|||...||| .|||||||.| ||| |||  ||
+c27063962-270   5202 -GTGCACTCGGC-GA-TTAGCTTAAGCGGAGCTGGGTG-TCC-GGCATAG   5246
+
+c173235206-17   1893 GACACAGTG---GCCTCCACGAGGATCCCTTACCATTACTGTGCGG-CCG   1938
+                     ||| |||.|   ..||||..|.  ..|||.|||.|...|..||.|| ||.
+c27063962-270   5247 GAC-CAGAGTGATACTCCCTGC--CACCCCTACAAGGGCCCTGAGGTCCC   5293
+
+c173235206-17   1939 CGCTCCGTAGGTCAAGCCGCTCTTACCAAGCGTCTCTCTGCCTCTCTGTT   1988
+                     ||..||         ||||||||.|||...|..|||||||||||||  ||
+c27063962-270   5294 CGGCCC---------GCCGCTCTAACCCGCCACCTCTCTGCCTCTC--TT   5332
+
+c173235206-17   1989 CCCCCTCAGAGCTGTGCGCGCTGCAGAAGGCGGTGGAGCTGGAGAAGACA   2038
+                     ||||.||||||||||||||||||||||||||.|||||||||||.||..|.
+c27063962-270   5333 CCCCTTCAGAGCTGTGCGCGCTGCAGAAGGCAGTGGAGCTGGACAAAGCC   5382
+
+c173235206-17   2039 GAGGCGGACAACGCGGAGCGGCCCCGGGCGCGACGGCGGAGGAAGCCGCG   2088
+                     |||.||||...|||.|||.|.||.||.||.||.|||||..|||||||.||
+c27063962-270   5383 GAGACGGATGGCGCCGAGAGACCACGCGCACGGCGGCGACGGAAGCCACG   5432
+
+c173235206-17   2089 CGTGCTCTTCTCGCAGGCGCAGGTCTATGAGCTGGAGCGGCGCTTCAAGC   2138
+                     |||||||||||||||||||||||||||.||||||||||||||||||||||
+c27063962-270   5433 CGTGCTCTTCTCGCAGGCGCAGGTCTACGAGCTGGAGCGGCGCTTCAAGC   5482
+
+c173235206-17   2139 AGCAGCGGTACCTGTCGGCCCCCGAACGCGACCAGCTGGCCAGCGTGCTG   2188
+                     |.|||||||||||||||||.||.||.||||||||||||||||||||||||
+c27063962-270   5483 AACAGCGGTACCTGTCGGCGCCAGAGCGCGACCAGCTGGCCAGCGTGCTG   5532
+
+c173235206-17   2189 AAACTCACGTCCACGCAGGTCAAGATCTGGTTCCAGAACCGGCGCTACAA   2238
+                     ||.||||||||||||||||||||||||||||||||||||||.||||||||
+c27063962-270   5533 AAGCTCACGTCCACGCAGGTCAAGATCTGGTTCCAGAACCGTCGCTACAA   5582
+
+c173235206-17   2239 GTGCAAGCGGCAGCGGCAGGACCAGACTCTGGAGCTGGTGGGGCTGCCCC   2288
+                     |||||||||.||||||||||||||||||||||||||..||||        
+c27063962-270   5583 GTGCAAGCGACAGCGGCAGGACCAGACTCTGGAGCTTCTGGG--------   5624
+
+c173235206-17   2289 CGCCGCCGCCGCCGCCTGCCCGCAGGATCGCGGTGCCAGTGCTGGTGCGC   2338
+                      |||||||||||||||.||.|||||||||||||||||.||||||||||||
+c27063962-270   5625 -GCCGCCGCCGCCGCCCGCGCGCAGGATCGCGGTGCCCGTGCTGGTGCGC   5673
+
+c173235206-17   2339 GATGGCAAGCCATGCCTAGGGGACTCGGCGCCCTACGCGCCTGCCTACGG   2388
+                     ||.||.|||||.|||||.||||||.|.|||.|||||||.||.||||||||
+c27063962-270   5674 GACGGGAAGCCCTGCCTGGGGGACCCCGCGGCCTACGCTCCCGCCTACGG   5723
+
+c173235206-17   2389 CGTGGGCCTCAATCCCTACGGTTATAACGCCTACCCCGCCTATCCGGGTT   2438
+                     ||||||.||||||.||||.||.||.||||||||||   ||||.||..|.|
+c27063962-270   5724 CGTGGGTCTCAATGCCTATGGCTACAACGCCTACC---CCTACCCCAGCT   5770
+
+c173235206-17   2439 ACGGCGGCGCGGCCTGCAGCCCTGGCTACAGCTGCACTGCCGCTTACCCC   2488
+                     |||||||||||||||||||.||.||||||||||||   |||||.||||||
+c27063962-270   5771 ACGGCGGCGCGGCCTGCAGTCCCGGCTACAGCTGC---GCCGCCTACCCC   5817
+
+c173235206-17   2489 GCCGGGCCTTCCCCAGCGCAGCCGGCCACTGCCGCCGCCAACAACAACTT   2538
+                     ||.|.|||..||.|.||||||||..||.|.|||.|||||||||.||||||
+c27063962-270   5818 GCTGCGCCCCCCGCCGCGCAGCCCCCCGCCGCCTCCGCCAACAGCAACTT   5867
+
+c173235206-17   2539 CGTGAACTTCGGCGTCGGGGACTTGAATGCGGTTCAGAGCCCCGGGATTC   2588
+                     |||||||||.|||||||||||||||||..|.||.|||||.||||||||.|
+c27063962-270   5868 CGTGAACTTTGGCGTCGGGGACTTGAACACCGTGCAGAGTCCCGGGATGC   5917
+
+c173235206-17   2589 CGCAGAGCAACTCGGGAGTGTCCACGCTGCATGGTATCCGAGCCTGGTAG   2638
+                     |||||.||||.|||||.||.|||||||||||.||.|||||||||||||||
+c27063962-270   5918 CGCAGGGCAATTCGGGCGTCTCCACGCTGCACGGCATCCGAGCCTGGTAG   5967
+
+c173235206-17   2639 GGAAGGGACCCGCGTGGCGCGACCCTGACCGA-TCCCACCTC----AACA   2683
+                     ||||.|..||||..|||.|||.|||.||.||| ||||||||.    |..|
+c27063962-270   5968 GGAAAGAGCCCGTTTGGGGCGCCCCGGAACGACTCCCACCTTTAGGAGAA   6017
+
+c173235206-17   2684 GCTCCCTGACTCTCGGGGG-GAGAAGGGGCTCCCAACATGACCCTGAGTC   2732
+                     |..|..|||||| |||||. |.|||  .|||||||..||| ||||  |||
+c27063962-270   6018 GGGCGATGACTC-CGGGGATGGGAA--AGCTCCCACTATG-CCCT--GTC   6061
+
+c173235206-17   2733 CCCTGGATTTTGCATTCACTCCTGCGGAGACCTAGGAACTTTTTCTG-TC   2781
+                     ||...|||||..||..|||.|..|||.||.|||.|||.||||.||.| ||
+c27063962-270   6062 CCTCAGATTTCACACCCACCCTCGCGCAGGCCTGGGACCTTTCTCCGATC   6111
+
+c173235206-17   2782 CCACGCGCGTTTGTTCTTGCGCACGGGAGAGTTTGTGGCGGCGATTATGC   2831
+                     |..|.|.| |||.||                        |.||.      
+c27063962-270   6112 CATCCCAC-TTTATT------------------------GACGT------   6130
+
+c173235206-17   2832 AGCGTGCAATGAGTGATCCTGCAGCCTGGTGTCTTAGCTGTCCCCCCAGG   2881
+                                           ||||||||||||..|      .||..|.
+c27063962-270   6131 ----------------------AGCCTGGTGTCTCGG------ACCTGGC   6152
+
+c173235206-17   2882 AGTGCCCTCCGAGAGTCCATGGGCACCCCCGGTTGGAACTGGGACTGAGC   2931
+                     ||.|||||.|.||.|| ||.||||||...|            |||.|| .
+c27063962-270   6153 AGAGCCCTTCCAGGGT-CACGGGCACTTTC------------GACGGA-T   6188
+
+c173235206-17   2932 TCGGGCACGCAGGGCCTGAGATCTGGCCGCCCATTCCGCGAGCCAGGGCC   2981
+                     ||   |||.|..||                    .|||.|||||.|||||
+c27063962-270   6189 TC---CACACTAGG--------------------ACCGGGAGCCTGGGCC   6215
+
+c173235206-17   2982 GGGCGCCCGGGCCTTTGCTATCTCGCCGTCGCCCGCCCACGCACCCACCC   3031
+                     |||||||||||||.|.|.|.|||.|||||||||        |||||||||
+c27063962-270   6216 GGGCGCCCGGGCCCTGGTTGTCTTGCCGTCGCC--------CACCCACCC   6257
+
+c173235206-17   3032 GTATTTATGTTTTTACCTATTGCTGTAAGAAATGACGATCCCCTTCCCAT   3081
+                     |||||||||||||||||   ||.||||||||||||..|.||.||||||||
+c27063962-270   6258 GTATTTATGTTTTTACC---TGTTGTAAGAAATGAGAACCCTCTTCCCAT   6304
+
+c173235206-17   3082 TAAAGAGAGTGCGTTGA----   3098
+                     |||||.|||||||.|.|    
+c27063962-270   6305 TAAAGTGAGTGCGCTAACGCA   6325
+
+
+#---------------------------------------
+#---------------------------------------
