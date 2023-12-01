@@ -1,0 +1,112 @@
+The number of matched atoms = 99
+RMSD = 0.99
+Structure Overlap = 99.00
+Fragment Score = 1.00
+Topology Score = 1.00
+The number of  CA  atoms of openfold = 100
+The number of  CA  atoms of omegafold = 100
+The number of identical residues = 99
+The number of identical residues with Heuristics= 99
+
+MATCHED ATOM PAIRS BETWEEN:
+openfold                                           omegafold
+Chain   ResNum       ResName        Atom        Chain     ResNum       ResName        Atom
+A          2           ASP           CA           A          2           ASP           CA 
+A          3           ALA           CA           A          3           ALA           CA 
+A          4           ASP           CA           A          4           ASP           CA 
+A          5           VAL           CA           A          5           VAL           CA 
+A          6           ILE           CA           A          6           ILE           CA 
+A          7           SER           CA           A          7           SER           CA 
+A          8           PHE           CA           A          8           PHE           CA 
+A          9           GLU           CA           A          9           GLU           CA 
+A         10           ALA           CA           A         10           ALA           CA 
+A         11           SER           CA           A         11           SER           CA 
+A         12           ARG           CA           A         12           ARG           CA 
+A         13           GLY           CA           A         13           GLY           CA 
+A         14           ASP           CA           A         14           ASP           CA 
+A         15           LEU           CA           A         15           LEU           CA 
+A         16           VAL           CA           A         16           VAL           CA 
+A         17           VAL           CA           A         17           VAL           CA 
+A         18           LEU           CA           A         18           LEU           CA 
+A         19           ASP           CA           A         19           ASP           CA 
+A         20           ALA           CA           A         20           ALA           CA 
+A         21           ILE           CA           A         21           ILE           CA 
+A         22           HIS           CA           A         22           HIS           CA 
+A         23           ASP           CA           A         23           ASP           CA 
+A         24           ALA           CA           A         24           ALA           CA 
+A         25           ARG           CA           A         25           ARG           CA 
+A         26           PHE           CA           A         26           PHE           CA 
+A         27           GLU           CA           A         27           GLU           CA 
+A         28           THR           CA           A         28           THR           CA 
+A         29           GLU           CA           A         29           GLU           CA 
+A         30           ALA           CA           A         30           ALA           CA 
+A         31           GLY           CA           A         31           GLY           CA 
+A         32           PRO           CA           A         32           PRO           CA 
+A         33           GLY           CA           A         33           GLY           CA 
+A         34           VAL           CA           A         34           VAL           CA 
+A         35           TYR           CA           A         35           TYR           CA 
+A         36           ASP           CA           A         36           ASP           CA 
+A         37           ILE           CA           A         37           ILE           CA 
+A         38           HIS           CA           A         38           HIS           CA 
+A         39           SER           CA           A         39           SER           CA 
+A         40           PRO           CA           A         40           PRO           CA 
+A         41           ARG           CA           A         41           ARG           CA 
+A         42           ILE           CA           A         42           ILE           CA 
+A         43           PRO           CA           A         43           PRO           CA 
+A         44           SER           CA           A         44           SER           CA 
+A         45           GLU           CA           A         45           GLU           CA 
+A         46           LYS           CA           A         46           LYS           CA 
+A         47           GLU           CA           A         47           GLU           CA 
+A         48           ILE           CA           A         48           ILE           CA 
+A         49           GLU           CA           A         49           GLU           CA 
+A         50           ASP           CA           A         50           ASP           CA 
+A         51           ARG           CA           A         51           ARG           CA 
+A         52           ILE           CA           A         52           ILE           CA 
+A         53           TYR           CA           A         53           TYR           CA 
+A         54           GLU           CA           A         54           GLU           CA 
+A         55           ILE           CA           A         55           ILE           CA 
+A         56           LEU           CA           A         56           LEU           CA 
+A         57           ASP           CA           A         57           ASP           CA 
+A         58           LYS           CA           A         58           LYS           CA 
+A         59           ILE           CA           A         59           ILE           CA 
+A         60           ASP           CA           A         60           ASP           CA 
+A         61           VAL           CA           A         61           VAL           CA 
+A         62           LYS           CA           A         62           LYS           CA 
+A         63           LYS           CA           A         63           LYS           CA 
+A         64           VAL           CA           A         64           VAL           CA 
+A         65           TRP           CA           A         65           TRP           CA 
+A         66           ILE           CA           A         66           ILE           CA 
+A         67           ASN           CA           A         67           ASN           CA 
+A         68           PRO           CA           A         68           PRO           CA 
+A         69           ASP           CA           A         69           ASP           CA 
+A         70           CYS           CA           A         70           CYS           CA 
+A         71           GLY           CA           A         71           GLY           CA 
+A         72           LEU           CA           A         72           LEU           CA 
+A         73           LYS           CA           A         73           LYS           CA 
+A         74           THR           CA           A         74           THR           CA 
+A         75           ARG           CA           A         75           ARG           CA 
+A         76           GLY           CA           A         76           GLY           CA 
+A         77           ASN           CA           A         77           ASN           CA 
+A         78           ASP           CA           A         78           ASP           CA 
+A         79           GLU           CA           A         79           GLU           CA 
+A         80           THR           CA           A         80           THR           CA 
+A         81           TRP           CA           A         81           TRP           CA 
+A         82           PRO           CA           A         82           PRO           CA 
+A         83           SER           CA           A         83           SER           CA 
+A         84           LEU           CA           A         84           LEU           CA 
+A         85           GLU           CA           A         85           GLU           CA 
+A         86           HIS           CA           A         86           HIS           CA 
+A         87           LEU           CA           A         87           LEU           CA 
+A         88           VAL           CA           A         88           VAL           CA 
+A         89           ALA           CA           A         89           ALA           CA 
+A         90           ALA           CA           A         90           ALA           CA 
+A         91           ALA           CA           A         91           ALA           CA 
+A         92           LYS           CA           A         92           LYS           CA 
+A         93           ALA           CA           A         93           ALA           CA 
+A         94           VAL           CA           A         94           VAL           CA 
+A         95           ARG           CA           A         95           ARG           CA 
+A         96           ALA           CA           A         96           ALA           CA 
+A         97           ARG           CA           A         97           ARG           CA 
+A         98           LEU           CA           A         98           LEU           CA 
+A         99           ASP           CA           A         99           ASP           CA 
+A        100           LYS           CA           A        100           LYS           CA 
